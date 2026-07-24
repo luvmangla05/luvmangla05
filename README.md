@@ -17,7 +17,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 B.Tech CSE, JSS University, Noida — Batch 2024–2028 | CGPA: 9.28
+- 🎓 B.Tech CSE, JSS University, Noida | CGPA: 9.28 | Batch 2024–2028 
 - 💼 AI/ML Intern at **AptCoder** - building and training ML models 
 - 📊 Data Analytics Intern — building ML pipelines & LLM/RAG systems
 - 🧠 Core focus: MERN Stack + DSA, with strong hands-on experience in AI/ML, GenAI & Agentic AI
