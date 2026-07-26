@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Luv Mangla 👋</h1>
+<h1 align="center">Hey! I'm Luv Mangla</h1>
 <h3 align="center">B.Tech CSE Student • MERN Stack Developer • Diving in AI/ML, GenAI & Agentic AI</h3>
 
 <p align="center">
