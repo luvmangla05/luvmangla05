@@ -19,7 +19,8 @@
 
 - 🎓 B.Tech CSE, JSS University, Noida | CGPA: 9.28 | Batch 2024–2028 
 - 💼 AI/ML Intern at **AptCoder** - building and training ML models 
-- 📊 Data Analytics Intern — building ML pipelines & LLM/RAG systems
+- 📊 Data Analytics Intern - building ML pipelines & LLM/RAG systems
+- 👨‍💻 Software Engineering Intern - Ayaksham Advanced MedTech (Freelance Project)
 - 🧠 Core focus: MERN Stack + DSA, with strong hands-on experience in AI/ML, GenAI & Agentic AI
 - ☁️ AWS Certified — Prompt Engineering & Machine Learning/AI
 
@@ -75,7 +76,6 @@
 - 🌱 Learning: Agentic AI & advanced RAG architectures
 - 🤝 Open to: SDE internships/opportunities, collaboration on MERN/AI projects
 - ⚡ Fun fact: Built this whole README instead of doing DSA today 😄
-
 ---
 
 <p align="center">
