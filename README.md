@@ -1,5 +1,5 @@
-<h1 align="center">Hey! I'm Luv Mangla</h1>
-<h3 align="center">B.Tech CSE Student • MERN Stack Developer • Diving in AI/ML, GenAI & Agentic AI</h3>
+<h1 align="center">Hey! I'm Luv Mangla 👋</h1>
+<h3 align="center">B.Tech CSE Student • MERN Stack Developer • Diving into AI/ML, GenAI & Agentic AI</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/luv-mangla/">
@@ -13,15 +13,57 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+with+MERN+%2B+DSA+as+my+foundation;Exploring+GenAI+%26+Agentic+AI+systems;Always+shipping+something+new+%F0%9F%9A%80&font=Fira+Code&center=true&width=600&height=45&color=58A6FF&vCenter=true&size=22" />
+</p>
+
 ---
 
 ### 👨‍💻 About Me
 
-- 🎓 B.Tech CSE, JSS University, Noida | CGPA: 9.28 | Batch 2024–2028 
-- 💼 AI/ML Intern at **AptCoder** - building and training ML models 
-- 📊 Data Analytics Intern - building ML pipelines & LLM/RAG systems
-- 🚀 Product Management Intern - MyFab11 
-- 👨‍💻 Software Engineering Intern - Ayaksham Advanced MedTech (Freelance Project)
+- 🎓 B.Tech CSE, JSS University, Noida | CGPA: 9.28 | Batch 2024–2028
+- 🧠 Focused on MERN + DSA as my core foundation, with GenAI & Agentic AI as a differentiating layer
+- 🌍 Founding member & Product Management Intern at **Incog**
+- 🤝 Open to SDE internships/opportunities and collaboration on MERN/AI projects
+
+---
+
+### 💼 Experience
+
+<table>
+<tr>
+<td width="60"><img src="https://img.shields.io/badge/-CCA-4A5568?style=flat-square" /></td>
+<td>
+<b>AI & Data Engineer</b> · CCA · Internship<br/>
+<sub>Jun 2026 – Jul 2026 · 2 mos</sub><br/>
+<sub>Scikit-Learn, Large Language Models (LLM) and more</sub>
+</td>
+</tr>
+<tr>
+<td width="60"><img src="https://img.shields.io/badge/-AptCoder-FF5733?style=flat-square" /></td>
+<td>
+<b>AI & ML Engineer</b> · AptCoder · Internship<br/>
+<sub>Jun 2026 – Jul 2026 · 2 mos · 🏆 Internship Certificate</sub><br/>
+<sub>Machine Learning, Scikit-Learn and 8 more skills · Team Head, Team B</sub>
+</td>
+</tr>
+<tr>
+<td width="60"><img src="https://img.shields.io/badge/-MyFab11-2E8B57?style=flat-square" /></td>
+<td>
+<b>Technical Product Manager</b> · MyFab11 · Internship<br/>
+<sub>Feb 2026 – May 2026 · 4 mos</sub><br/>
+<sub>Product Management, Software Product Management and 3 more skills</sub>
+</td>
+</tr>
+<tr>
+<td width="60"><img src="https://img.shields.io/badge/-Ayaksham-1E3A5F?style=flat-square" /></td>
+<td>
+<b>Software Engineer</b> · Ayaksham Advanced Medtech · Internship<br/>
+<sub>Jun 2025 – Jul 2025 · 2 mos · 🏆 Internship Certificate</sub><br/>
+<sub>Built and deployed the clinic's full website end-to-end</sub>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -75,10 +117,10 @@
 - 🌱 Learning: Agentic AI & advanced RAG architectures
 - 🤝 Open to: SDE internships/opportunities, collaboration on MERN/AI projects
 - ⚡ Fun fact: Built this whole README instead of doing DSA today 😄
+
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=blue" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=luvmangla05&style=flat-square&color=blue" alt="profile views" />
 </p>
-
 <p align="center"><i>Thanks for stopping by — let's build something great 🚀</i></p>
