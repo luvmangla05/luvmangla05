@@ -35,32 +35,28 @@
 <td width="60"><img src="https://img.shields.io/badge/-CCA-4A5568?style=flat-square" /></td>
 <td>
 <b>AI & Data Engineer</b> · CCA · Internship<br/>
-<sub>Jun 2026 – Jul 2026 · 2 mos</sub><br/>
-<sub>Scikit-Learn, Large Language Models (LLM) and more</sub>
+<sub>Jun 2026 – Jul 2026 </sub><br/>
 </td>
 </tr>
 <tr>
 <td width="60"><img src="https://img.shields.io/badge/-AptCoder-FF5733?style=flat-square" /></td>
 <td>
 <b>AI & ML Engineer</b> · AptCoder · Internship<br/>
-<sub>Jun 2026 – Jul 2026 · 2 mos · 🏆 Internship Certificate</sub><br/>
-<sub>Machine Learning, Scikit-Learn and 8 more skills · Team Head, Team B</sub>
+<sub>Jun 2026 – Jul 2026</sub><br/>
 </td>
 </tr>
 <tr>
 <td width="60"><img src="https://img.shields.io/badge/-MyFab11-2E8B57?style=flat-square" /></td>
 <td>
 <b>Technical Product Manager</b> · MyFab11 · Internship<br/>
-<sub>Feb 2026 – May 2026 · 4 mos</sub><br/>
-<sub>Product Management, Software Product Management and 3 more skills</sub>
+<sub>Feb 2026 – May 2026</sub><br/>
 </td>
 </tr>
 <tr>
 <td width="60"><img src="https://img.shields.io/badge/-Ayaksham-1E3A5F?style=flat-square" /></td>
 <td>
 <b>Software Engineer</b> · Ayaksham Advanced Medtech · Internship<br/>
-<sub>Jun 2025 – Jul 2025 · 2 mos · 🏆 Internship Certificate</sub><br/>
-<sub>Built and deployed the clinic's full website end-to-end</sub>
+<sub>Jun 2025 – Jul 2025</sub><br/>
 </td>
 </tr>
 </table>
