@@ -23,7 +23,7 @@
 
 - 🎓 B.Tech CSE, JSS University, Noida | CGPA: 9.28 | Batch 2024–2028
 - 🧠 Aspiring Software Engineer, building strong fundamentals in DSA & full-stack development, with GenAI & Agentic AI as a differentiating layer
-- 🌍 Founding member & Product Management Intern at **Incog**
+- 🌍 Founding cohort & Product Management Intern at **Incog**, Powered by MyFab11
 - 🤝 Open to SDE internships/opportunities and collaboration on MERN/AI projects
 
 ---
