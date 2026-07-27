@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+with+MERN+%2B+DSA+along+with+AI/ML+&+Data+Engineering;Diving+in+GenAI+%26+Agentic+AI+systems;Always+shipping+something+new+%F0%9F%9A%80&font=Fira+Code&center=true&width=600&height=45&color=58A6FF&vCenter=true&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+with+MERN+%2B+DSA+as+my+foundation;Exploring+GenAI+%26+Agentic+AI+systems;Always+shipping+something+new+%F0%9F%9A%80&font=Fira+Code&center=true&width=600&height=45&color=58A6FF&vCenter=true&size=22" />
 </p>
 
 ---
@@ -22,7 +22,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 B.Tech CSE, JSS University, Noida | CGPA: 9.28 | Batch 2024–2028
-- 🧠 Focused on MERN + DSA as my core foundation, with GenAI & Agentic AI as a differentiating layer
+- 🧠 Aspiring Software Engineer, building strong fundamentals in DSA & full-stack development, with GenAI & Agentic AI as a differentiating layer
 - 🌍 Founding member & Product Management Intern at **Incog**
 - 🤝 Open to SDE internships/opportunities and collaboration on MERN/AI projects
 
@@ -120,4 +120,7 @@
 
 ---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=luvmangla05&style=flat-square&color=blue" alt="profile views" />
+</p>
 <p align="center"><i>Thanks for stopping by — let's build something great 🚀</i></p>
