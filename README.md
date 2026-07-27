@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+with+MERN+%2B+DSA+as+my+foundation;Exploring+GenAI+%26+Agentic+AI+systems;Always+shipping+something+new+%F0%9F%9A%80&font=Fira+Code&center=true&width=600&height=45&color=58A6FF&vCenter=true&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer+in+the+making;Building+across+Full-Stack%2C+AI%2FML+%26+Data;Solving+problems%2C+shipping+products+%F0%9F%9A%80&font=Fira+Code&center=true&width=600&height=45&color=58A6FF&vCenter=true&size=22" />
 </p>
 
 ---
