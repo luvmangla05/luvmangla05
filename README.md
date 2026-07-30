@@ -41,7 +41,7 @@
 <tr>
 <td width="60"><img src="https://img.shields.io/badge/-AptCoder-FF5733?style=flat-square" /></td>
 <td>
-<b>AI & ML Engineer</b> · AptCoder · Internship<br/>
+<b>AI & ML Engineer</b> · APTCODER · Internship<br/>
 <sub>Jun 2026 – Jul 2026</sub><br/>
 </td>
 </tr>
