@@ -34,7 +34,7 @@
 <tr>
 <td width="60"><img src="https://img.shields.io/badge/-CCA-4A5568?style=flat-square" /></td>
 <td>
-<b>AI & Data Engineer</b> · CCA · Internship<br/>
+<b>Data Intelligence Engineer</b> · CCA · Internship<br/>
 <sub>Jun 2026 – Jul 2026 </sub><br/>
 </td>
 </tr>
