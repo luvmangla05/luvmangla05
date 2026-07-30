@@ -48,14 +48,14 @@
 <tr>
 <td width="60"><img src="https://img.shields.io/badge/-MyFab11-2E8B57?style=flat-square" /></td>
 <td>
-<b>Technical Product Manager</b> · MyFab11 · Internship<br/>
+<b>Product Manager</b> · MyFab11 · Internship<br/>
 <sub>Feb 2026 – May 2026</sub><br/>
 </td>
 </tr>
 <tr>
 <td width="60"><img src="https://img.shields.io/badge/-Ayaksham-1E3A5F?style=flat-square" /></td>
 <td>
-<b>Software Engineer</b> · Ayaksham Advanced Medtech · Internship<br/>
+<b>Web Developer</b> · Ayaksham Advanced Medtech · Internship<br/>
 <sub>Jun 2025 – Jul 2025</sub><br/>
 </td>
 </tr>
