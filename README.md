@@ -1,5 +1,5 @@
 <h1 align="center">Hey! I'm Luv Mangla 👋</h1>
-<h3 align="center">B.Tech CSE Student • MERN Stack Developer • Diving into AI/ML, GenAI & Agentic AI</h3>
+<h3 align="center">B.Tech CSE Student • MERN Stack Developer • Diving into Data Engineering, AI/ML, GenAI & Agentic AI</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/luv-mangla/">
