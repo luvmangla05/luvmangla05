@@ -11,6 +11,9 @@
   <a href="https://github.com/luvmangla05">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://drive.google.com/file/d/1Vd_C27eYmaZbbVquCqDV60ac53LNFaCN/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
