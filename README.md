@@ -1,5 +1,12 @@
-<h1 align="center">Hey! I'm Luv Mangla 👋</h1>
-<h3 align="center">B.Tech CSE Student • MERN Stack Developer • Diving into Data Engineering, AI/ML, GenAI & Agentic AI</h3>
+<!-- <h1 align="center">Hey! I'm Luv Mangla 👋</h1>
+<h3 align="center">B.Tech CSE Student • MERN Stack Developer • Diving into Data Engineering, AI/ML, GenAI & Agentic AI</h3> -->
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0F,50:14213D,100:1B3A5C&height=220&section=header&text=Luv%20Mangla&fontSize=46&fontColor=E8F0FE&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20-%20MERN%20Stack%20Developer%20-%20AptCoder%20Intern&descAlignY=55&descSize=16" width="100%"/>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1000&color=5B9BD5&center=true&vCenter=true&width=600&lines=Building+MERN+%2B+AI%2FML+Systems;DSA+%2B+Full-Stack+Engineer;AptCoder+-+AI%2FML+Intern+%7C+Team+Head;GenAI+%2F+Agentic+AI+Explorer" alt="Typing SVG" /></a>
+<br>
+</div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/luv-mangla/">
