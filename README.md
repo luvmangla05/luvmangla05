@@ -1,5 +1,5 @@
 <!-- <h1 align="center">Hey! I'm Luv Mangla 👋</h1>
-<h3 align="center">B.Tech CSE Student • MERN Stack Developer • Diving into Data Engineering, AI/ML, GenAI & Agentic AI</h3> -->
+<h3 align="center">B.Tech CSE 3rd Year Student • MERN Stack Developer • Diving into Data Engineering, AI/ML, GenAI & Agentic AI</h3> -->
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0F,50:14213D,100:1B3A5C&height=220&section=header&text=Luv%20Mangla&fontSize=46&fontColor=E8F0FE&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20-%20MERN%20Stack%20Developer%20-%20Data%20Intelligence%20Intern&descAlignY=55&descSize=16" width="100%"/>
