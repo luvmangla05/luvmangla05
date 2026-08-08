@@ -31,7 +31,7 @@
 - 🎓 B.Tech CSE, JSS University, Noida | CGPA: 9.28 | Batch 2024–2028
 - 💻 Technical Lead, E Cell-JSS Noida
 - 📢 Marketing Lead, EDC JSSUN
-- 📚 Council Member, CSE Technical Council
+- 📚 Council Member, CSE Technical Council - Competitive Programming Cell
 - 🌍 Founding cohort & Product Management Intern at **Incog**, Powered by MyFab11
 - 🤝 Open to SDE internships/opportunities and collaboration on MERN/AI Full Stack projects
 
