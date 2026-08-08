@@ -29,7 +29,9 @@
 ### 👨‍💻 About Me
 
 - 🎓 B.Tech CSE, JSS University, Noida | CGPA: 9.28 | Batch 2024–2028
-- 🧠 Aspiring Software Engineer, building strong fundamentals in DSA & full-stack development, along with ML frameworks, GenAI & Agentic AI.
+- 💻 Technical Lead, E Cell-JSS Noida
+- 📢 Marketing Lead, EDC JSSUN
+- 📚 Council Member, CSE Technical Council
 - 🌍 Founding cohort & Product Management Intern at **Incog**, Powered by MyFab11
 - 🤝 Open to SDE internships/opportunities and collaboration on MERN/AI Full Stack projects
 
