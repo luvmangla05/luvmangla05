@@ -33,7 +33,6 @@
 - 📚 Council Member, CSE Technical Council - Competitive Programming Cell
 - 📢 Marketing Lead, EDC JSSUN
 - 🌍 Founding cohort & Product Management Intern at **Incog**, Powered by MyFab11
-- 🤝 Open to SDE internships/opportunities and collaboration on MERN/AI Full Stack projects
 
 ---
 
