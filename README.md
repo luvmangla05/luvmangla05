@@ -28,7 +28,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 B.Tech CSE, JSS University, Noida | CGPA: 9.28 | Batch 2024–2028
+- 🎓 B.Tech - Computer Science, JSS University, Noida | CGPA: 9.28 | Batch 2024–2028
 - 💻 Technical Lead, E Cell - JSS Noida
 - 📚 Council Member, CSE Technical Council - Competitive Programming Cell
 - 📢 Marketing Lead, EDC JSSUN
