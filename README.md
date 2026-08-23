@@ -3,7 +3,7 @@
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0F,50:14213D,100:1B3A5C&height=220&section=header&text=Luv%20Mangla&fontSize=46&fontColor=E8F0FE&animation=fadeIn&fontAlignY=35&desc=Data%20Intelligence%20Intern%20-%20AI%2FML%20Engineer%20-%20MERN%20Stack%20Developer&descAlignY=55&descSize=16" width="100%"/>
-
+</div>
 <p align="center">
   <a href="https://www.linkedin.com/in/luv-mangla/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
