@@ -117,7 +117,6 @@
 
 ### 📈 Currently
 
-- 🔭 Working on: Wells Fargo Forage simulation (Spring Boot, JPA, ERD design)
 - 🌱 Learning: Agentic AI & advanced RAG architectures
 - 🤝 Open to: SDE internships/opportunities, collaboration on MERN/AI projects
 
