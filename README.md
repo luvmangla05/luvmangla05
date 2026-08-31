@@ -32,6 +32,7 @@
 - 📚 Council Member, CSE Technical Council - Competitive Programming Cell
 - 📢 Marketing Lead, EDC JSSUN
 - 🌍 Founding cohort & Product Management Intern at **Incog**, Powered by MyFab11
+- 🥇 Ranked #1 in the Data Intelligence Internship. 
 
 ---
 
