@@ -39,6 +39,13 @@
 ### 💼 Experience
 
 <table>
+ <tr>
+<td width="60"><img src="https://img.shields.io/badge/-ASAI-4A5568?style=flat-square" /></td>
+<td>
+<b>Lead Intern</b> · ASAI · Internship<br/>
+<sub>Jul 2026 – Present </sub><br/>
+</td>
+</tr> 
 <tr>
 <td width="60"><img src="https://img.shields.io/badge/-CCA-4A5568?style=flat-square" /></td>
 <td>
