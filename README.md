@@ -40,7 +40,9 @@
 
 <table>
  <tr>
-<td width="60"><img src="https://img.shields.io/badge/-ASAI-4A5568?style=flat-square" /></td>
+<td width="60">
+  <img src="https://img.shields.io/badge/-ASAI-111111?style=flat-square&logoColor=FFFFFF" />
+</td>
 <td>
 <b>Lead Intern</b> · ASAI · Internship<br/>
 <sub>Jul 2026 – Present </sub><br/>
