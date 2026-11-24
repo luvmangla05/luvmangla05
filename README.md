@@ -126,7 +126,7 @@
 
 ### 📈 Currently
 
-- 🌱 Learning: Agentic AI & advanced RAG architectures
+- 🌱 Learning: Generative AI, Agentic AI & advanced RAG architectures
 - 🤝 Open to: SDE internships/opportunities, collaboration on MERN/AI projects
 
 ---
